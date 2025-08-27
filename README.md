@@ -69,9 +69,9 @@ Advanced analytics builds on EDA to generate deeper business insights:
 
 ## 📂 Repository Structure
 
-├── datasets/ # Sample datasets (from Data Warehouse in csv) & db backup file
-├── docs/ # Diagrams & reference charts (e.g., roadmap)
-├── scripts/ # SQL scripts for EDA & Analytics
-├── reports/ # Query-based results & outputs
-├── LICENSE/ # MIT
-└── README.md # Project documentation
+- ├── datasets/ # Sample datasets (from Data Warehouse in csv) & db backup file
+- ├── docs/ # Diagrams & reference charts (e.g., roadmap)
+- ├── scripts/ # SQL scripts for EDA & Analytics
+- ├── reports/ # Query-based results & outputs
+- ├── LICENSE/ # MIT
+- └── README.md # Project documentation
