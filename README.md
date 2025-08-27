@@ -1,7 +1,7 @@
 # SQL Data Analytics Project
 
 This project demonstrates **Data Analytics** workflows using datasets (tables) extracted from a **previous Data Warehouse project**.  
-It is a continuation of that project (👉 [add link here to the Data Warehouse project]) and focuses on applying **Exploratory Data Analysis (EDA)** and **Advanced Analytics** techniques directly in **SQL Server 2022** using **SSMS 21**.
+It is a continuation of that project (👉 [https://github.com/josphat-19/sql-data-warehouse-project]) and focuses on applying **Exploratory Data Analysis (EDA)** and **Advanced Analytics** techniques directly in **SQL Server 2022** using **SSMS 21**.
 
 ---
 
