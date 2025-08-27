@@ -10,6 +10,7 @@ It is a continuation of that project (👉 [https://github.com/josphat-19/sql-da
 The project builds on top of an **ETL-based Data Warehouse**, where fact and dimension tables were created.  
 Using this data foundation, I applied analytics techniques to answer business questions, explore patterns, and generate meaningful reports.
 ![Project Overview](docs/Project_Roadmap.png)
+
 The analytics is divided into two key phases:
 
 ### 1. Exploratory Data Analysis (EDA)
