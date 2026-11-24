@@ -1,4 +1,5 @@
-﻿3,Mountain-100 Black- 38,Bikes,Mountain Bikes,1898,2011-12-27,164,High-Performer,11,49,165375,49,49,3375,3375,15034
+product_key,product_name,category,subcategory,cost,last_sale_date,recency_in_months,product_segment,lifespan,total_orders,total_sales,total_quantity,total_customers,avg_selling_price,avg_order_revenue,avg_monthly_revenue
+3,Mountain-100 Black- 38,Bikes,Mountain Bikes,1898,2011-12-27,164,High-Performer,11,49,165375,49,49,3375,3375,15034
 4,Mountain-100 Black- 42,Bikes,Mountain Bikes,1898,2011-12-27,164,High-Performer,11,45,151875,45,45,3375,3375,13806
 5,Mountain-100 Black- 44,Bikes,Mountain Bikes,1898,2011-12-21,164,High-Performer,11,60,202500,60,60,3375,3375,18409
 6,Mountain-100 Black- 48,Bikes,Mountain Bikes,1898,2011-12-26,164,High-Performer,12,57,192375,57,57,3375,3375,16031
