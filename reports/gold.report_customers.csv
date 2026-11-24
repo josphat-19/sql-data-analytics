@@ -1,4 +1,5 @@
-﻿1,AW00011000,Jon Yang,54,50 and above,VIP,2013-05-03,147,3,8249,8,8,2749,294
+customer_key,customer_number,customer_name,age,age_group,customer_segment,last_order_date,recency,total_orders,total_sales,total_quantity,lifespan,avg_order_value,avg_monthly_spend
+1,AW00011000,Jon Yang,54,50 and above,VIP,2013-05-03,147,3,8249,8,8,2749,294
 2,AW00011001,Eugene Huang,49,40-49,VIP,2013-12-10,140,3,6384,11,10,2128,182
 3,AW00011002,Ruben Torres,54,50 and above,VIP,2013-02-23,150,3,8114,4,4,2704,324
 4,AW00011003,Christy Zhu,52,50 and above,VIP,2013-05-10,147,3,8139,9,9,2713,280
